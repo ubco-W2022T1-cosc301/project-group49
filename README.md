@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 49 - Fifa World Cup Data Analysis
 
 **Please remember to update this section**
 
@@ -16,9 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your dataset in about 150-200 words
 
-**Please remember to update this section**
-
-{Add your stuff here}
+A Data Scientist from Brazil compiled the data, and posted it on kaggle.com for the public to use. Our dataset includes information on each match played in the World Cup since it began. Our dataset covers the time period: 1930 - 2014. The purpose of the dataset is public interest and learning. The data collected was partly historic records digitized, and the rest was extrapolated from the Fifa records.
 
 ## Team Members
 
