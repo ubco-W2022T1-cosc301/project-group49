@@ -4,7 +4,7 @@
 
 - Your title can change over time.
 
-## Milestones
+## Milestones 2
 
 Details for Milestone are available on Canvas (left sidebar, Course Project).
 
@@ -23,7 +23,7 @@ A Data Scientist from Brazil compiled the data, and posted it on kaggle.com for 
 **Please remember to update this section**
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Cherry Ho: a friendly and smart, but careless and lazy person
 - Person 3: one sentence about you!
 
 ## Images
