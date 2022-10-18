@@ -6,9 +6,14 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-**Please remember to update this section**
-
-{Add your stuff here}
+We would like to find out if there are patterns in the data with respect to different variables such as:
+-Whether 'home team' advantage is reflected on who wins the game.
+-If the half time score affects the final score
+-The winning patterns of teams carried to the next world cup
+-How the crowd attendance affects the number of goals scored in the game
+-If certain stadiums has more goals scored.
+Since the worldcup is such a celebrated event, we thought it would be fun to find out if we could anaylse patterns to find out if we can make predictions of future games.
+We could see this being turned into a data dashboard for easy interpretation.
 
 ## Describe your dataset in about 150-200 words
 
@@ -20,7 +25,7 @@ A Data Scientist, Andre Becklas from Brazil compiled the data from the Fifa Worl
 
 - Ammaar Khan: chill person, passionate about tech, play basketball and workout.
 - Cherry Ho: a friendly and smart, but careless and lazy person
-- Person 3: one sentence about you!
+- Anna Ciji Panakkal: Loves watching sitcoms and diehard Taylor Swift fan
 
 ## Images
 
