@@ -19,10 +19,10 @@ def load_and_process(filePath):
     # Preparing function needed
     def label_winner (row):
         if row['Home Team Goals'] > row['Away Team Goals']:
-            return 1
+            return "Home Team"
         if row['Home Team Goals'] < row['Away Team Goals']:
-            return 2
-        return 0
+            return "Away Team"
+        return "Other"
     
     df1['Winner'] = (
         df1
