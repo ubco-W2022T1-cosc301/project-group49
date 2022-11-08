@@ -10,6 +10,7 @@ def load_and_process(url_or_path_to_csv_file):
     # Method Chain 1 (Load data)
 
     df1 = pd.read_csv(url_or_path_to_csv_file)
+    print(df1.info())
 
     # Method Chain 2 (Drop unneccessary columns like the # of Goals Scored,
     #Check if the winners are a home team(to make sure that every winner counted is a visiting team);
