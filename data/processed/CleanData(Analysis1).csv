@@ -1,0 +1,851 @@
+Year,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Winner
+1930.0,France,4.0,1.0,Mexico,Home Team
+1930.0,USA,3.0,0.0,Belgium,Home Team
+1930.0,Yugoslavia,2.0,1.0,Brazil,Home Team
+1930.0,Romania,3.0,1.0,Peru,Home Team
+1930.0,Argentina,1.0,0.0,France,Home Team
+1930.0,Chile,3.0,0.0,Mexico,Home Team
+1930.0,Yugoslavia,4.0,0.0,Bolivia,Home Team
+1930.0,USA,3.0,0.0,Paraguay,Home Team
+1930.0,Uruguay,1.0,0.0,Peru,Home Team
+1930.0,Chile,1.0,0.0,France,Home Team
+1930.0,Argentina,6.0,3.0,Mexico,Home Team
+1930.0,Brazil,4.0,0.0,Bolivia,Home Team
+1930.0,Paraguay,1.0,0.0,Belgium,Home Team
+1930.0,Uruguay,4.0,0.0,Romania,Home Team
+1930.0,Argentina,3.0,1.0,Chile,Home Team
+1930.0,Argentina,6.0,1.0,USA,Home Team
+1930.0,Uruguay,6.0,1.0,Yugoslavia,Home Team
+1930.0,Uruguay,4.0,2.0,Argentina,Home Team
+1934.0,Austria,3.0,2.0,France,Home Team
+1934.0,Hungary,4.0,2.0,Egypt,Home Team
+1934.0,Switzerland,3.0,2.0,Netherlands,Home Team
+1934.0,Sweden,3.0,2.0,Argentina,Home Team
+1934.0,Germany,5.0,2.0,Belgium,Home Team
+1934.0,Spain,3.0,1.0,Brazil,Home Team
+1934.0,Italy,7.0,1.0,USA,Home Team
+1934.0,Czechoslovakia,2.0,1.0,Romania,Home Team
+1934.0,Czechoslovakia,3.0,2.0,Switzerland,Home Team
+1934.0,Germany,2.0,1.0,Sweden,Home Team
+1934.0,Italy,1.0,1.0,Spain,Other
+1934.0,Austria,2.0,1.0,Hungary,Home Team
+1934.0,Italy,1.0,0.0,Spain,Home Team
+1934.0,Italy,1.0,0.0,Austria,Home Team
+1934.0,Czechoslovakia,3.0,1.0,Germany,Home Team
+1934.0,Germany,3.0,2.0,Austria,Home Team
+1934.0,Italy,2.0,1.0,Czechoslovakia,Home Team
+1938.0,Switzerland,1.0,1.0,Germany,Other
+1938.0,Hungary,6.0,0.0,Dutch East Indies,Home Team
+1938.0,France,3.0,1.0,Belgium,Home Team
+1938.0,Cuba,3.0,3.0,Romania,Other
+1938.0,Italy,2.0,1.0,Norway,Home Team
+1938.0,Brazil,6.0,5.0,Poland,Home Team
+1938.0,Czechoslovakia,3.0,0.0,Netherlands,Home Team
+1938.0,Cuba,2.0,1.0,Romania,Home Team
+1938.0,Switzerland,4.0,2.0,Germany,Home Team
+1938.0,Brazil,1.0,1.0,Czechoslovakia,Other
+1938.0,Hungary,2.0,0.0,Switzerland,Home Team
+1938.0,Sweden,8.0,0.0,Cuba,Home Team
+1938.0,Italy,3.0,1.0,France,Home Team
+1938.0,Brazil,2.0,1.0,Czechoslovakia,Home Team
+1938.0,Hungary,5.0,1.0,Sweden,Home Team
+1938.0,Italy,2.0,1.0,Brazil,Home Team
+1938.0,Brazil,4.0,2.0,Sweden,Home Team
+1938.0,Italy,4.0,2.0,Hungary,Home Team
+1950.0,Brazil,4.0,0.0,Mexico,Home Team
+1950.0,England,2.0,0.0,Chile,Home Team
+1950.0,Spain,3.0,1.0,USA,Home Team
+1950.0,Sweden,3.0,2.0,Italy,Home Team
+1950.0,Yugoslavia,3.0,0.0,Switzerland,Home Team
+1950.0,Brazil,2.0,2.0,Switzerland,Other
+1950.0,Yugoslavia,4.0,1.0,Mexico,Home Team
+1950.0,Spain,2.0,0.0,Chile,Home Team
+1950.0,Sweden,2.0,2.0,Paraguay,Other
+1950.0,USA,1.0,0.0,England,Home Team
+1950.0,Brazil,2.0,0.0,Yugoslavia,Home Team
+1950.0,Spain,1.0,0.0,England,Home Team
+1950.0,Italy,2.0,0.0,Paraguay,Home Team
+1950.0,Uruguay,8.0,0.0,Bolivia,Home Team
+1950.0,Switzerland,2.0,1.0,Mexico,Home Team
+1950.0,Chile,5.0,2.0,USA,Home Team
+1950.0,Uruguay,2.0,2.0,Spain,Other
+1950.0,Brazil,7.0,1.0,Sweden,Home Team
+1950.0,Brazil,6.0,1.0,Spain,Home Team
+1950.0,Uruguay,3.0,2.0,Sweden,Home Team
+1950.0,Sweden,3.0,1.0,Spain,Home Team
+1950.0,Uruguay,2.0,1.0,Brazil,Home Team
+1954.0,Uruguay,2.0,0.0,Czechoslovakia,Home Team
+1954.0,Austria,1.0,0.0,Scotland,Home Team
+1954.0,Brazil,5.0,0.0,Mexico,Home Team
+1954.0,Yugoslavia,1.0,0.0,France,Home Team
+1954.0,Germany FR,4.0,1.0,Turkey,Home Team
+1954.0,Hungary,9.0,0.0,Korea Republic,Home Team
+1954.0,England,4.0,4.0,Belgium,Other
+1954.0,Switzerland,2.0,1.0,Italy,Home Team
+1954.0,Uruguay,7.0,0.0,Scotland,Home Team
+1954.0,Austria,5.0,0.0,Czechoslovakia,Home Team
+1954.0,France,3.0,2.0,Mexico,Home Team
+1954.0,Brazil,1.0,1.0,Yugoslavia,Other
+1954.0,Hungary,8.0,3.0,Germany FR,Home Team
+1954.0,Turkey,7.0,0.0,Korea Republic,Home Team
+1954.0,England,2.0,0.0,Switzerland,Home Team
+1954.0,Italy,4.0,1.0,Belgium,Home Team
+1954.0,Germany FR,7.0,2.0,Turkey,Home Team
+1954.0,Switzerland,4.0,1.0,Italy,Home Team
+1954.0,Uruguay,4.0,2.0,England,Home Team
+1954.0,Austria,7.0,5.0,Switzerland,Home Team
+1954.0,Germany FR,2.0,0.0,Yugoslavia,Home Team
+1954.0,Hungary,4.0,2.0,Brazil,Home Team
+1954.0,Germany FR,6.0,1.0,Austria,Home Team
+1954.0,Hungary,4.0,2.0,Uruguay,Home Team
+1954.0,Austria,3.0,1.0,Uruguay,Home Team
+1954.0,Germany FR,3.0,2.0,Hungary,Home Team
+1958.0,Sweden,3.0,0.0,Mexico,Home Team
+1958.0,Soviet Union,2.0,2.0,England,Other
+1958.0,Argentina,1.0,3.0,Germany FR,Away Team
+1958.0,Hungary,1.0,1.0,Wales,Other
+1958.0,France,7.0,3.0,Paraguay,Home Team
+1958.0,Yugoslavia,1.0,1.0,Scotland,Other
+1958.0,Brazil,3.0,0.0,Austria,Home Team
+1958.0,Northern Ireland,1.0,0.0,Czechoslovakia,Home Team
+1958.0,Brazil,0.0,0.0,England,Other
+1958.0,Mexico,1.0,1.0,Wales,Other
+1958.0,Paraguay,3.0,2.0,Scotland,Home Team
+1958.0,Yugoslavia,3.0,2.0,France,Home Team
+1958.0,Soviet Union,2.0,0.0,Austria,Home Team
+1958.0,Germany FR,2.0,2.0,Czechoslovakia,Other
+1958.0,Argentina,3.0,1.0,Northern Ireland,Home Team
+1958.0,Sweden,2.0,1.0,Hungary,Home Team
+1958.0,Sweden,0.0,0.0,Wales,Other
+1958.0,Brazil,2.0,0.0,Soviet Union,Home Team
+1958.0,Germany FR,2.0,2.0,Northern Ireland,Other
+1958.0,Hungary,4.0,0.0,Mexico,Home Team
+1958.0,Paraguay,3.0,3.0,Yugoslavia,Other
+1958.0,France,2.0,1.0,Scotland,Home Team
+1958.0,England,2.0,2.0,Austria,Other
+1958.0,Czechoslovakia,6.0,1.0,Argentina,Home Team
+1958.0,Soviet Union,1.0,0.0,England,Home Team
+1958.0,Northern Ireland,2.0,1.0,Czechoslovakia,Home Team
+1958.0,Wales,2.0,1.0,Hungary,Home Team
+1958.0,Brazil,1.0,0.0,Wales,Home Team
+1958.0,Germany FR,1.0,0.0,Yugoslavia,Home Team
+1958.0,Sweden,2.0,0.0,Soviet Union,Home Team
+1958.0,France,4.0,0.0,Northern Ireland,Home Team
+1958.0,Sweden,3.0,1.0,Germany FR,Home Team
+1958.0,Brazil,5.0,2.0,France,Home Team
+1958.0,France,6.0,3.0,Germany FR,Home Team
+1958.0,Brazil,5.0,2.0,Sweden,Home Team
+1962.0,Uruguay,2.0,1.0,Colombia,Home Team
+1962.0,Brazil,2.0,0.0,Mexico,Home Team
+1962.0,Argentina,1.0,0.0,Bulgaria,Home Team
+1962.0,Chile,3.0,1.0,Switzerland,Home Team
+1962.0,Soviet Union,2.0,0.0,Yugoslavia,Home Team
+1962.0,Czechoslovakia,1.0,0.0,Spain,Home Team
+1962.0,Hungary,2.0,1.0,England,Home Team
+1962.0,Germany FR,0.0,0.0,Italy,Other
+1962.0,Yugoslavia,3.0,1.0,Uruguay,Home Team
+1962.0,Brazil,0.0,0.0,Czechoslovakia,Other
+1962.0,England,3.0,1.0,Argentina,Home Team
+1962.0,Chile,2.0,0.0,Italy,Home Team
+1962.0,Soviet Union,4.0,4.0,Colombia,Other
+1962.0,Spain,1.0,0.0,Mexico,Home Team
+1962.0,Hungary,6.0,1.0,Bulgaria,Home Team
+1962.0,Germany FR,2.0,1.0,Switzerland,Home Team
+1962.0,Soviet Union,2.0,1.0,Uruguay,Home Team
+1962.0,Brazil,2.0,1.0,Spain,Home Team
+1962.0,Hungary,0.0,0.0,Argentina,Other
+1962.0,Germany FR,2.0,0.0,Chile,Home Team
+1962.0,Yugoslavia,5.0,0.0,Colombia,Home Team
+1962.0,Mexico,3.0,1.0,Czechoslovakia,Home Team
+1962.0,England,0.0,0.0,Bulgaria,Other
+1962.0,Italy,3.0,0.0,Switzerland,Home Team
+1962.0,Chile,2.0,1.0,Soviet Union,Home Team
+1962.0,Brazil,3.0,1.0,England,Home Team
+1962.0,Czechoslovakia,1.0,0.0,Hungary,Home Team
+1962.0,Yugoslavia,1.0,0.0,Germany FR,Home Team
+1962.0,Czechoslovakia,3.0,1.0,Yugoslavia,Home Team
+1962.0,Brazil,4.0,2.0,Chile,Home Team
+1962.0,Chile,1.0,0.0,Yugoslavia,Home Team
+1962.0,Brazil,3.0,1.0,Czechoslovakia,Home Team
+1966.0,England,0.0,0.0,Uruguay,Other
+1966.0,Germany FR,5.0,0.0,Switzerland,Home Team
+1966.0,Brazil,2.0,0.0,Bulgaria,Home Team
+1966.0,Soviet Union,3.0,0.0,Korea DPR,Home Team
+1966.0,France,1.0,1.0,Mexico,Other
+1966.0,Portugal,3.0,1.0,Hungary,Home Team
+1966.0,Argentina,2.0,1.0,Spain,Home Team
+1966.0,Italy,2.0,0.0,Chile,Home Team
+1966.0,Uruguay,2.0,1.0,France,Home Team
+1966.0,Spain,2.0,1.0,Switzerland,Home Team
+1966.0,Hungary,3.0,1.0,Brazil,Home Team
+1966.0,Korea DPR,1.0,1.0,Chile,Other
+1966.0,Portugal,3.0,0.0,Bulgaria,Home Team
+1966.0,Germany FR,0.0,0.0,Argentina,Other
+1966.0,Soviet Union,1.0,0.0,Italy,Home Team
+1966.0,England,2.0,0.0,Mexico,Home Team
+1966.0,Uruguay,0.0,0.0,Mexico,Other
+1966.0,Argentina,2.0,0.0,Switzerland,Home Team
+1966.0,Portugal,3.0,1.0,Brazil,Home Team
+1966.0,Korea DPR,1.0,0.0,Italy,Home Team
+1966.0,England,2.0,0.0,France,Home Team
+1966.0,Hungary,3.0,1.0,Bulgaria,Home Team
+1966.0,Germany FR,2.0,1.0,Spain,Home Team
+1966.0,Soviet Union,2.0,1.0,Chile,Home Team
+1966.0,England,1.0,0.0,Argentina,Home Team
+1966.0,Germany FR,4.0,0.0,Uruguay,Home Team
+1966.0,Soviet Union,2.0,1.0,Hungary,Home Team
+1966.0,Portugal,5.0,3.0,Korea DPR,Home Team
+1966.0,Germany FR,2.0,1.0,Soviet Union,Home Team
+1966.0,England,2.0,1.0,Portugal,Home Team
+1966.0,Portugal,2.0,1.0,Soviet Union,Home Team
+1966.0,England,4.0,2.0,Germany FR,Home Team
+1970.0,Mexico,0.0,0.0,Soviet Union,Other
+1970.0,Uruguay,2.0,0.0,Israel,Home Team
+1970.0,Peru,3.0,2.0,Bulgaria,Home Team
+1970.0,England,1.0,0.0,Romania,Home Team
+1970.0,Italy,1.0,0.0,Sweden,Home Team
+1970.0,Germany FR,2.0,1.0,Morocco,Home Team
+1970.0,Brazil,4.0,1.0,Czechoslovakia,Home Team
+1970.0,Belgium,3.0,0.0,El Salvador,Home Team
+1970.0,Uruguay,0.0,0.0,Italy,Other
+1970.0,Peru,3.0,0.0,Morocco,Home Team
+1970.0,Romania,2.0,1.0,Czechoslovakia,Home Team
+1970.0,Soviet Union,4.0,1.0,Belgium,Home Team
+1970.0,Sweden,1.0,1.0,Israel,Other
+1970.0,Germany FR,5.0,2.0,Bulgaria,Home Team
+1970.0,Brazil,1.0,0.0,England,Home Team
+1970.0,Mexico,4.0,0.0,El Salvador,Home Team
+1970.0,Sweden,1.0,0.0,Uruguay,Home Team
+1970.0,Germany FR,3.0,1.0,Peru,Home Team
+1970.0,Brazil,3.0,2.0,Romania,Home Team
+1970.0,Soviet Union,2.0,0.0,El Salvador,Home Team
+1970.0,Italy,0.0,0.0,Israel,Other
+1970.0,Bulgaria,1.0,1.0,Morocco,Other
+1970.0,England,1.0,0.0,Czechoslovakia,Home Team
+1970.0,Mexico,1.0,0.0,Belgium,Home Team
+1970.0,Italy,4.0,1.0,Mexico,Home Team
+1970.0,Germany FR,3.0,2.0,England,Home Team
+1970.0,Brazil,4.0,2.0,Peru,Home Team
+1970.0,Uruguay,1.0,0.0,Soviet Union,Home Team
+1970.0,Brazil,3.0,1.0,Uruguay,Home Team
+1970.0,Italy,4.0,3.0,Germany FR,Home Team
+1970.0,Germany FR,1.0,0.0,Uruguay,Home Team
+1970.0,Brazil,4.0,1.0,Italy,Home Team
+1974.0,Brazil,0.0,0.0,Yugoslavia,Other
+1974.0,Germany FR,1.0,0.0,Chile,Home Team
+1974.0,German DR,2.0,0.0,Australia,Home Team
+1974.0,Zaire,0.0,2.0,Scotland,Away Team
+1974.0,Uruguay,0.0,2.0,Netherlands,Away Team
+1974.0,Sweden,0.0,0.0,Bulgaria,Other
+1974.0,Italy,3.0,1.0,Haiti,Home Team
+1974.0,Poland,3.0,2.0,Argentina,Home Team
+1974.0,Australia,0.0,3.0,Germany FR,Away Team
+1974.0,Scotland,0.0,0.0,Brazil,Other
+1974.0,Chile,1.0,1.0,German DR,Other
+1974.0,Yugoslavia,9.0,0.0,Zaire,Home Team
+1974.0,Netherlands,0.0,0.0,Sweden,Other
+1974.0,Bulgaria,1.0,1.0,Uruguay,Other
+1974.0,Haiti,0.0,7.0,Poland,Away Team
+1974.0,Argentina,1.0,1.0,Italy,Other
+1974.0,Scotland,1.0,1.0,Yugoslavia,Other
+1974.0,Australia,0.0,0.0,Chile,Other
+1974.0,Zaire,0.0,3.0,Brazil,Away Team
+1974.0,German DR,1.0,0.0,Germany FR,Home Team
+1974.0,Bulgaria,1.0,4.0,Netherlands,Away Team
+1974.0,Argentina,4.0,1.0,Haiti,Home Team
+1974.0,Sweden,3.0,0.0,Uruguay,Home Team
+1974.0,Poland,2.0,1.0,Italy,Home Team
+1974.0,Yugoslavia,0.0,2.0,Germany FR,Away Team
+1974.0,Brazil,1.0,0.0,German DR,Home Team
+1974.0,Netherlands,4.0,0.0,Argentina,Home Team
+1974.0,Sweden,0.0,1.0,Poland,Away Team
+1974.0,Argentina,1.0,2.0,Brazil,Away Team
+1974.0,Poland,2.0,1.0,Yugoslavia,Home Team
+1974.0,German DR,0.0,2.0,Netherlands,Away Team
+1974.0,Germany FR,4.0,2.0,Sweden,Home Team
+1974.0,Poland,0.0,1.0,Germany FR,Away Team
+1974.0,Netherlands,2.0,0.0,Brazil,Home Team
+1974.0,Argentina,1.0,1.0,German DR,Other
+1974.0,Sweden,2.0,1.0,Yugoslavia,Home Team
+1974.0,Brazil,0.0,1.0,Poland,Away Team
+1974.0,Netherlands,1.0,2.0,Germany FR,Away Team
+1978.0,Germany FR,0.0,0.0,Poland,Other
+1978.0,Italy,2.0,1.0,France,Home Team
+1978.0,Tunisia,3.0,1.0,Mexico,Home Team
+1978.0,Argentina,2.0,1.0,Hungary,Home Team
+1978.0,Sweden,1.0,1.0,Brazil,Other
+1978.0,Austria,2.0,1.0,Spain,Home Team
+1978.0,Peru,3.0,1.0,Scotland,Home Team
+1978.0,Netherlands,3.0,0.0,IR Iran,Home Team
+1978.0,Italy,3.0,1.0,Hungary,Home Team
+1978.0,Poland,1.0,0.0,Tunisia,Home Team
+1978.0,Germany FR,6.0,0.0,Mexico,Home Team
+1978.0,Argentina,2.0,1.0,France,Home Team
+1978.0,Brazil,0.0,0.0,Spain,Other
+1978.0,Austria,1.0,0.0,Sweden,Home Team
+1978.0,Scotland,1.0,1.0,IR Iran,Other
+1978.0,Netherlands,0.0,0.0,Peru,Other
+1978.0,France,3.0,1.0,Hungary,Home Team
+1978.0,Poland,3.0,1.0,Mexico,Home Team
+1978.0,Germany FR,0.0,0.0,Tunisia,Other
+1978.0,Italy,1.0,0.0,Argentina,Home Team
+1978.0,Brazil,1.0,0.0,Austria,Home Team
+1978.0,Spain,1.0,0.0,Sweden,Home Team
+1978.0,Peru,4.0,1.0,Iran,Home Team
+1978.0,Scotland,3.0,2.0,Netherlands,Home Team
+1978.0,Germany FR,0.0,0.0,Italy,Other
+1978.0,Netherlands,5.0,1.0,Austria,Home Team
+1978.0,Brazil,3.0,0.0,Peru,Home Team
+1978.0,Argentina,2.0,0.0,Poland,Home Team
+1978.0,Poland,1.0,0.0,Peru,Home Team
+1978.0,Italy,1.0,0.0,Austria,Home Team
+1978.0,Germany FR,2.0,2.0,Netherlands,Other
+1978.0,Argentina,0.0,0.0,Brazil,Other
+1978.0,Netherlands,2.0,1.0,Italy,Home Team
+1978.0,Austria,3.0,2.0,Germany FR,Home Team
+1978.0,Brazil,3.0,1.0,Poland,Home Team
+1978.0,Argentina,6.0,0.0,Peru,Home Team
+1978.0,Brazil,2.0,1.0,Italy,Home Team
+1978.0,Argentina,3.0,1.0,Netherlands,Home Team
+1982.0,Argentina,0.0,1.0,Belgium,Away Team
+1982.0,Italy,0.0,0.0,Poland,Other
+1982.0,Brazil,2.0,1.0,Soviet Union,Home Team
+1982.0,Peru,0.0,0.0,Cameroon,Other
+1982.0,Hungary,10.0,1.0,El Salvador,Home Team
+1982.0,Scotland,5.0,2.0,New Zealand,Home Team
+1982.0,Germany FR,1.0,2.0,Algeria,Away Team
+1982.0,England,3.0,1.0,France,Home Team
+1982.0,Spain,1.0,1.0,Honduras,Other
+1982.0,Chile,0.0,1.0,Austria,Away Team
+1982.0,Czechoslovakia,1.0,1.0,Kuwait,Other
+1982.0,Yugoslavia,0.0,0.0,Northern Ireland,Other
+1982.0,Italy,1.0,1.0,Peru,Other
+1982.0,Argentina,4.0,1.0,Hungary,Home Team
+1982.0,Brazil,4.0,1.0,Scotland,Home Team
+1982.0,Poland,0.0,0.0,Cameroon,Other
+1982.0,Belgium,1.0,0.0,El Salvador,Home Team
+1982.0,Soviet Union,3.0,0.0,New Zealand,Home Team
+1982.0,Germany FR,4.0,1.0,Chile,Home Team
+1982.0,England,2.0,0.0,Czechoslovakia,Home Team
+1982.0,Spain,2.0,1.0,Yugoslavia,Home Team
+1982.0,Algeria,0.0,2.0,Austria,Away Team
+1982.0,France,4.0,1.0,Kuwait,Home Team
+1982.0,Honduras,1.0,1.0,Northern Ireland,Other
+1982.0,Poland,5.0,1.0,Peru,Home Team
+1982.0,Belgium,1.0,1.0,Hungary,Other
+1982.0,Soviet Union,2.0,2.0,Scotland,Other
+1982.0,Italy,1.0,1.0,Cameroon,Other
+1982.0,Argentina,2.0,0.0,El Salvador,Home Team
+1982.0,Brazil,4.0,0.0,New Zealand,Home Team
+1982.0,Algeria,3.0,2.0,Chile,Home Team
+1982.0,France,1.0,1.0,Czechoslovakia,Other
+1982.0,Honduras,0.0,1.0,Yugoslavia,Away Team
+1982.0,Germany FR,1.0,0.0,Austria,Home Team
+1982.0,England,1.0,0.0,Kuwait,Home Team
+1982.0,Northern Ireland,1.0,0.0,Spain,Home Team
+1982.0,Austria,0.0,1.0,France,Away Team
+1982.0,Poland,3.0,0.0,Belgium,Home Team
+1982.0,Italy,2.0,1.0,Argentina,Home Team
+1982.0,Germany FR,0.0,0.0,England,Other
+1982.0,Austria,2.0,2.0,Northern Ireland,Other
+1982.0,Belgium,0.0,1.0,Soviet Union,Away Team
+1982.0,Argentina,1.0,3.0,Brazil,Away Team
+1982.0,Germany FR,2.0,1.0,Spain,Home Team
+1982.0,France,4.0,1.0,Northern Ireland,Home Team
+1982.0,Poland,0.0,0.0,Soviet Union,Other
+1982.0,Italy,3.0,2.0,Brazil,Home Team
+1982.0,Spain,0.0,0.0,England,Other
+1982.0,Poland,0.0,2.0,Italy,Away Team
+1982.0,Germany FR,3.0,3.0,France,Other
+1982.0,Poland,3.0,2.0,France,Home Team
+1982.0,Italy,3.0,1.0,Germany FR,Home Team
+1986.0,Bulgaria,1.0,1.0,Italy,Other
+1986.0,Canada,0.0,1.0,France,Away Team
+1986.0,Spain,0.0,1.0,Brazil,Away Team
+1986.0,Soviet Union,6.0,0.0,Hungary,Home Team
+1986.0,Argentina,3.0,1.0,Korea Republic,Home Team
+1986.0,Morocco,0.0,0.0,Poland,Other
+1986.0,Algeria,1.0,1.0,Northern Ireland,Other
+1986.0,Belgium,1.0,2.0,Mexico,Away Team
+1986.0,Portugal,1.0,0.0,England,Home Team
+1986.0,Paraguay,1.0,0.0,Iraq,Home Team
+1986.0,Scotland,0.0,1.0,Denmark,Away Team
+1986.0,Uruguay,1.0,1.0,Germany FR,Other
+1986.0,Italy,1.0,1.0,Argentina,Other
+1986.0,France,1.0,1.0,Soviet Union,Other
+1986.0,Korea Republic,1.0,1.0,Bulgaria,Other
+1986.0,Hungary,2.0,0.0,Canada,Home Team
+1986.0,Brazil,1.0,0.0,Algeria,Home Team
+1986.0,England,0.0,0.0,Morocco,Other
+1986.0,Northern Ireland,1.0,2.0,Spain,Away Team
+1986.0,Mexico,1.0,1.0,Paraguay,Other
+1986.0,Poland,1.0,0.0,Portugal,Home Team
+1986.0,Iraq,1.0,2.0,Belgium,Away Team
+1986.0,Denmark,6.0,1.0,Uruguay,Home Team
+1986.0,Germany FR,2.0,1.0,Scotland,Home Team
+1986.0,Hungary,0.0,3.0,France,Away Team
+1986.0,Soviet Union,2.0,0.0,Canada,Home Team
+1986.0,Korea Republic,2.0,3.0,Italy,Away Team
+1986.0,Argentina,2.0,0.0,Bulgaria,Home Team
+1986.0,Paraguay,2.0,2.0,Belgium,Other
+1986.0,Iraq,0.0,1.0,Mexico,Away Team
+1986.0,Portugal,1.0,3.0,Morocco,Away Team
+1986.0,England,3.0,0.0,Poland,Home Team
+1986.0,Northern Ireland,0.0,3.0,Brazil,Away Team
+1986.0,Algeria,0.0,3.0,Spain,Away Team
+1986.0,Scotland,0.0,0.0,Uruguay,Other
+1986.0,Denmark,2.0,0.0,Germany FR,Home Team
+1986.0,Soviet Union,3.0,4.0,Belgium,Away Team
+1986.0,Mexico,2.0,0.0,Bulgaria,Home Team
+1986.0,Argentina,1.0,0.0,Uruguay,Home Team
+1986.0,Brazil,4.0,0.0,Poland,Home Team
+1986.0,Italy,0.0,2.0,France,Away Team
+1986.0,Morocco,0.0,1.0,Germany FR,Away Team
+1986.0,England,3.0,0.0,Paraguay,Home Team
+1986.0,Denmark,1.0,5.0,Spain,Away Team
+1986.0,Brazil,1.0,1.0,France,Other
+1986.0,Germany FR,0.0,0.0,Mexico,Other
+1986.0,Spain,1.0,1.0,Belgium,Other
+1986.0,Argentina,2.0,1.0,England,Home Team
+1986.0,France,0.0,2.0,Germany FR,Away Team
+1986.0,Argentina,2.0,0.0,Belgium,Home Team
+1986.0,France,4.0,2.0,Belgium,Home Team
+1986.0,Argentina,3.0,2.0,Germany FR,Home Team
+1990.0,Argentina,0.0,1.0,Cameroon,Away Team
+1990.0,Soviet Union,0.0,2.0,Romania,Away Team
+1990.0,"rn"">United Arab Emirates",0.0,2.0,Colombia,Away Team
+1990.0,Italy,1.0,0.0,Austria,Home Team
+1990.0,USA,1.0,5.0,Czechoslovakia,Away Team
+1990.0,Brazil,2.0,1.0,Sweden,Home Team
+1990.0,Germany FR,4.0,1.0,Yugoslavia,Home Team
+1990.0,Costa Rica,1.0,0.0,Scotland,Home Team
+1990.0,England,1.0,1.0,"rn"">Republic of Ireland",Other
+1990.0,Belgium,2.0,0.0,Korea Republic,Home Team
+1990.0,Netherlands,1.0,1.0,Egypt,Other
+1990.0,Uruguay,0.0,0.0,Spain,Other
+1990.0,Argentina,2.0,0.0,Soviet Union,Home Team
+1990.0,Cameroon,2.0,1.0,Romania,Home Team
+1990.0,Yugoslavia,1.0,0.0,Colombia,Home Team
+1990.0,Italy,1.0,0.0,USA,Home Team
+1990.0,Austria,0.0,1.0,Czechoslovakia,Away Team
+1990.0,Germany FR,5.0,1.0,"rn"">United Arab Emirates",Home Team
+1990.0,Brazil,1.0,0.0,Costa Rica,Home Team
+1990.0,Sweden,1.0,2.0,Scotland,Away Team
+1990.0,England,0.0,0.0,Netherlands,Other
+1990.0,"rn"">Republic of Ireland",0.0,0.0,Egypt,Other
+1990.0,Korea Republic,1.0,3.0,Spain,Away Team
+1990.0,Belgium,3.0,1.0,Uruguay,Home Team
+1990.0,Argentina,1.0,1.0,Romania,Other
+1990.0,Cameroon,0.0,4.0,Soviet Union,Away Team
+1990.0,Germany FR,1.0,1.0,Colombia,Other
+1990.0,Yugoslavia,4.0,1.0,"rn"">United Arab Emirates",Home Team
+1990.0,Italy,2.0,0.0,Czechoslovakia,Home Team
+1990.0,Austria,2.0,1.0,USA,Home Team
+1990.0,Brazil,1.0,0.0,Scotland,Home Team
+1990.0,Sweden,1.0,2.0,Costa Rica,Away Team
+1990.0,Korea Republic,0.0,1.0,Uruguay,Away Team
+1990.0,Belgium,1.0,2.0,Spain,Away Team
+1990.0,"rn"">Republic of Ireland",1.0,1.0,Netherlands,Other
+1990.0,England,1.0,0.0,Egypt,Home Team
+1990.0,Cameroon,2.0,1.0,Colombia,Home Team
+1990.0,Czechoslovakia,4.0,1.0,Costa Rica,Home Team
+1990.0,Brazil,0.0,1.0,Argentina,Away Team
+1990.0,Germany FR,2.0,1.0,Netherlands,Home Team
+1990.0,"rn"">Republic of Ireland",0.0,0.0,Romania,Other
+1990.0,Italy,2.0,0.0,Uruguay,Home Team
+1990.0,Spain,1.0,2.0,Yugoslavia,Away Team
+1990.0,England,1.0,0.0,Belgium,Home Team
+1990.0,Yugoslavia,0.0,0.0,Argentina,Other
+1990.0,Italy,1.0,0.0,"rn"">Republic of Ireland",Home Team
+1990.0,Germany FR,1.0,0.0,Czechoslovakia,Home Team
+1990.0,England,3.0,2.0,Cameroon,Home Team
+1990.0,Italy,1.0,1.0,Argentina,Other
+1990.0,Germany FR,1.0,1.0,England,Other
+1990.0,Italy,2.0,1.0,England,Home Team
+1990.0,Germany FR,1.0,0.0,Argentina,Home Team
+1994.0,Spain,2.0,2.0,Korea Republic,Other
+1994.0,Germany,1.0,0.0,Bolivia,Home Team
+1994.0,USA,1.0,1.0,Switzerland,Other
+1994.0,Italy,0.0,1.0,"rn"">Republic of Ireland",Away Team
+1994.0,Colombia,1.0,3.0,Romania,Away Team
+1994.0,Belgium,1.0,0.0,Morocco,Home Team
+1994.0,Norway,1.0,0.0,Mexico,Home Team
+1994.0,Cameroon,2.0,2.0,Sweden,Other
+1994.0,Netherlands,2.0,1.0,Saudi Arabia,Home Team
+1994.0,Brazil,2.0,0.0,Russia,Home Team
+1994.0,Argentina,4.0,0.0,Greece,Home Team
+1994.0,Nigeria,3.0,0.0,Bulgaria,Home Team
+1994.0,Germany,1.0,1.0,Spain,Other
+1994.0,Romania,1.0,4.0,Switzerland,Away Team
+1994.0,USA,2.0,1.0,Colombia,Home Team
+1994.0,Italy,1.0,0.0,Norway,Home Team
+1994.0,Korea Republic,0.0,0.0,Bolivia,Other
+1994.0,Mexico,2.0,1.0,"rn"">Republic of Ireland",Home Team
+1994.0,Sweden,3.0,1.0,Russia,Home Team
+1994.0,Brazil,3.0,0.0,Cameroon,Home Team
+1994.0,Belgium,1.0,0.0,Netherlands,Home Team
+1994.0,Saudi Arabia,2.0,1.0,Morocco,Home Team
+1994.0,Argentina,2.0,1.0,Nigeria,Home Team
+1994.0,Bulgaria,4.0,0.0,Greece,Home Team
+1994.0,USA,0.0,1.0,Romania,Away Team
+1994.0,Switzerland,0.0,2.0,Colombia,Away Team
+1994.0,Germany,3.0,2.0,Korea Republic,Home Team
+1994.0,Bolivia,1.0,3.0,Spain,Away Team
+1994.0,"rn"">Republic of Ireland",0.0,0.0,Norway,Other
+1994.0,Brazil,1.0,1.0,Sweden,Other
+1994.0,Italy,1.0,1.0,Mexico,Other
+1994.0,Russia,6.0,1.0,Cameroon,Home Team
+1994.0,Morocco,1.0,2.0,Netherlands,Away Team
+1994.0,Belgium,0.0,1.0,Saudi Arabia,Away Team
+1994.0,Greece,0.0,2.0,Nigeria,Away Team
+1994.0,Argentina,0.0,2.0,Bulgaria,Away Team
+1994.0,Germany,3.0,2.0,Belgium,Home Team
+1994.0,Spain,3.0,0.0,Switzerland,Home Team
+1994.0,Saudi Arabia,1.0,3.0,Sweden,Away Team
+1994.0,Romania,3.0,2.0,Argentina,Home Team
+1994.0,Netherlands,2.0,0.0,"rn"">Republic of Ireland",Home Team
+1994.0,Brazil,1.0,0.0,USA,Home Team
+1994.0,Nigeria,1.0,2.0,Italy,Away Team
+1994.0,Mexico,1.0,1.0,Bulgaria,Other
+1994.0,Italy,2.0,1.0,Spain,Home Team
+1994.0,Netherlands,2.0,3.0,Brazil,Away Team
+1994.0,Bulgaria,2.0,1.0,Germany,Home Team
+1994.0,Romania,2.0,2.0,Sweden,Other
+1994.0,Bulgaria,1.0,2.0,Italy,Away Team
+1994.0,Sweden,0.0,1.0,Brazil,Away Team
+1994.0,Sweden,4.0,0.0,Bulgaria,Home Team
+1994.0,Brazil,0.0,0.0,Italy,Other
+1998.0,Brazil,2.0,1.0,Scotland,Home Team
+1998.0,Morocco,2.0,2.0,Norway,Other
+1998.0,Italy,2.0,2.0,Chile,Other
+1998.0,Cameroon,1.0,1.0,Austria,Other
+1998.0,Paraguay,0.0,0.0,Bulgaria,Other
+1998.0,Saudi Arabia,0.0,1.0,Denmark,Away Team
+1998.0,France,3.0,0.0,South Africa,Home Team
+1998.0,Spain,2.0,3.0,Nigeria,Away Team
+1998.0,Korea Republic,1.0,3.0,Mexico,Away Team
+1998.0,Netherlands,0.0,0.0,Belgium,Other
+1998.0,Argentina,1.0,0.0,Japan,Home Team
+1998.0,Yugoslavia,1.0,0.0,Iran,Home Team
+1998.0,Jamaica,1.0,3.0,Croatia,Away Team
+1998.0,England,2.0,0.0,Tunisia,Home Team
+1998.0,Romania,1.0,0.0,Colombia,Home Team
+1998.0,Germany,2.0,0.0,USA,Home Team
+1998.0,Scotland,1.0,1.0,Norway,Other
+1998.0,Brazil,3.0,0.0,Morocco,Home Team
+1998.0,Chile,1.0,1.0,Austria,Other
+1998.0,Italy,3.0,0.0,Cameroon,Home Team
+1998.0,South Africa,1.0,1.0,Denmark,Other
+1998.0,France,4.0,0.0,Saudi Arabia,Home Team
+1998.0,Nigeria,1.0,0.0,Bulgaria,Home Team
+1998.0,Spain,0.0,0.0,Paraguay,Other
+1998.0,Japan,0.0,1.0,Croatia,Away Team
+1998.0,Belgium,2.0,2.0,Mexico,Other
+1998.0,Netherlands,5.0,0.0,Korea Republic,Home Team
+1998.0,Germany,2.0,2.0,Yugoslavia,Other
+1998.0,Argentina,5.0,0.0,Jamaica,Home Team
+1998.0,USA,1.0,2.0,Iran,Away Team
+1998.0,Colombia,1.0,0.0,Tunisia,Home Team
+1998.0,Romania,2.0,1.0,England,Home Team
+1998.0,Italy,2.0,1.0,Austria,Home Team
+1998.0,Chile,1.0,1.0,Cameroon,Other
+1998.0,Scotland,0.0,3.0,Morocco,Away Team
+1998.0,Brazil,1.0,2.0,Norway,Away Team
+1998.0,France,2.0,1.0,Denmark,Home Team
+1998.0,South Africa,2.0,2.0,Saudi Arabia,Other
+1998.0,Spain,6.0,1.0,Bulgaria,Home Team
+1998.0,Nigeria,1.0,3.0,Paraguay,Away Team
+1998.0,Belgium,1.0,1.0,Korea Republic,Other
+1998.0,Netherlands,2.0,2.0,Mexico,Other
+1998.0,Germany,2.0,0.0,Iran,Home Team
+1998.0,USA,0.0,1.0,Yugoslavia,Away Team
+1998.0,Japan,1.0,2.0,Jamaica,Away Team
+1998.0,Argentina,1.0,0.0,Croatia,Home Team
+1998.0,Romania,1.0,1.0,Tunisia,Other
+1998.0,Colombia,0.0,2.0,England,Away Team
+1998.0,Italy,1.0,0.0,Norway,Home Team
+1998.0,Brazil,4.0,1.0,Chile,Home Team
+1998.0,France,1.0,0.0,Paraguay,Home Team
+1998.0,Nigeria,1.0,4.0,Denmark,Away Team
+1998.0,Germany,2.0,1.0,Mexico,Home Team
+1998.0,Netherlands,2.0,1.0,Yugoslavia,Home Team
+1998.0,Romania,0.0,1.0,Croatia,Away Team
+1998.0,Argentina,2.0,2.0,England,Other
+1998.0,Italy,0.0,0.0,France,Other
+1998.0,Brazil,3.0,2.0,Denmark,Home Team
+1998.0,Netherlands,2.0,1.0,Argentina,Home Team
+1998.0,Germany,0.0,3.0,Croatia,Away Team
+1998.0,Brazil,1.0,1.0,Netherlands,Other
+1998.0,France,2.0,1.0,Croatia,Home Team
+1998.0,Netherlands,1.0,2.0,Croatia,Away Team
+1998.0,Brazil,0.0,3.0,France,Away Team
+2002.0,France,0.0,1.0,Senegal,Away Team
+2002.0,Uruguay,1.0,2.0,Denmark,Away Team
+2002.0,"rn"">Republic of Ireland",1.0,1.0,Cameroon,Other
+2002.0,Germany,8.0,0.0,Saudi Arabia,Home Team
+2002.0,Argentina,1.0,0.0,Nigeria,Home Team
+2002.0,Paraguay,2.0,2.0,South Africa,Other
+2002.0,England,1.0,1.0,Sweden,Other
+2002.0,Spain,3.0,1.0,Slovenia,Home Team
+2002.0,Brazil,2.0,1.0,Turkey,Home Team
+2002.0,Italy,2.0,0.0,Ecuador,Home Team
+2002.0,Croatia,0.0,1.0,Mexico,Away Team
+2002.0,China PR,0.0,2.0,Costa Rica,Away Team
+2002.0,Japan,2.0,2.0,Belgium,Other
+2002.0,Korea Republic,2.0,0.0,Poland,Home Team
+2002.0,Russia,2.0,0.0,Tunisia,Home Team
+2002.0,USA,3.0,2.0,Portugal,Home Team
+2002.0,Germany,1.0,1.0,"rn"">Republic of Ireland",Other
+2002.0,Denmark,1.0,1.0,Senegal,Other
+2002.0,Cameroon,1.0,0.0,Saudi Arabia,Home Team
+2002.0,France,0.0,0.0,Uruguay,Other
+2002.0,Sweden,2.0,1.0,Nigeria,Home Team
+2002.0,Argentina,0.0,1.0,England,Away Team
+2002.0,Spain,3.0,1.0,Paraguay,Home Team
+2002.0,South Africa,1.0,0.0,Slovenia,Home Team
+2002.0,Brazil,4.0,0.0,China PR,Home Team
+2002.0,Italy,1.0,2.0,Croatia,Away Team
+2002.0,Costa Rica,1.0,1.0,Turkey,Other
+2002.0,Japan,1.0,0.0,Russia,Home Team
+2002.0,Mexico,2.0,1.0,Ecuador,Home Team
+2002.0,Korea Republic,1.0,1.0,USA,Other
+2002.0,Portugal,4.0,0.0,Poland,Home Team
+2002.0,Tunisia,1.0,1.0,Belgium,Other
+2002.0,Denmark,2.0,0.0,France,Home Team
+2002.0,Senegal,3.0,3.0,Uruguay,Other
+2002.0,Saudi Arabia,0.0,3.0,"rn"">Republic of Ireland",Away Team
+2002.0,Cameroon,0.0,2.0,Germany,Away Team
+2002.0,Sweden,1.0,1.0,Argentina,Other
+2002.0,Nigeria,0.0,0.0,England,Other
+2002.0,Slovenia,1.0,3.0,Paraguay,Away Team
+2002.0,South Africa,2.0,3.0,Spain,Away Team
+2002.0,Costa Rica,2.0,5.0,Brazil,Away Team
+2002.0,Turkey,3.0,0.0,China PR,Home Team
+2002.0,Ecuador,1.0,0.0,Croatia,Home Team
+2002.0,Mexico,1.0,1.0,Italy,Other
+2002.0,Tunisia,0.0,2.0,Japan,Away Team
+2002.0,Portugal,0.0,1.0,Korea Republic,Away Team
+2002.0,Poland,3.0,1.0,USA,Home Team
+2002.0,Belgium,3.0,2.0,Russia,Home Team
+2002.0,Denmark,0.0,3.0,England,Away Team
+2002.0,Germany,1.0,0.0,Paraguay,Home Team
+2002.0,Spain,1.0,1.0,"rn"">Republic of Ireland",Other
+2002.0,Sweden,1.0,2.0,Senegal,Away Team
+2002.0,Brazil,2.0,0.0,Belgium,Home Team
+2002.0,Mexico,0.0,2.0,USA,Away Team
+2002.0,Japan,0.0,1.0,Turkey,Away Team
+2002.0,Korea Republic,2.0,1.0,Italy,Home Team
+2002.0,England,1.0,2.0,Brazil,Away Team
+2002.0,Germany,1.0,0.0,USA,Home Team
+2002.0,Senegal,0.0,1.0,Turkey,Away Team
+2002.0,Spain,0.0,0.0,Korea Republic,Other
+2002.0,Germany,1.0,0.0,Korea Republic,Home Team
+2002.0,Brazil,1.0,0.0,Turkey,Home Team
+2002.0,Korea Republic,2.0,3.0,Turkey,Away Team
+2002.0,Germany,0.0,2.0,Brazil,Away Team
+2006.0,Germany,4.0,2.0,Costa Rica,Home Team
+2006.0,Poland,0.0,2.0,Ecuador,Away Team
+2006.0,England,1.0,0.0,Paraguay,Home Team
+2006.0,"rn"">Trinidad and Tobago",0.0,0.0,Sweden,Other
+2006.0,Argentina,2.0,1.0,C�te d'Ivoire,Home Team
+2006.0,"rn"">Serbia and Montenegro",0.0,1.0,Netherlands,Away Team
+2006.0,Mexico,3.0,1.0,Iran,Home Team
+2006.0,Angola,0.0,1.0,Portugal,Away Team
+2006.0,Australia,3.0,1.0,Japan,Home Team
+2006.0,USA,0.0,3.0,Czech Republic,Away Team
+2006.0,Italy,2.0,0.0,Ghana,Home Team
+2006.0,Korea Republic,2.0,1.0,Togo,Home Team
+2006.0,France,0.0,0.0,Switzerland,Other
+2006.0,Brazil,1.0,0.0,Croatia,Home Team
+2006.0,Spain,4.0,0.0,Ukraine,Home Team
+2006.0,Tunisia,2.0,2.0,Saudi Arabia,Other
+2006.0,Germany,1.0,0.0,Poland,Home Team
+2006.0,Ecuador,3.0,0.0,Costa Rica,Home Team
+2006.0,England,2.0,0.0,"rn"">Trinidad and Tobago",Home Team
+2006.0,Sweden,1.0,0.0,Paraguay,Home Team
+2006.0,Argentina,6.0,0.0,"rn"">Serbia and Montenegro",Home Team
+2006.0,Netherlands,2.0,1.0,C�te d'Ivoire,Home Team
+2006.0,Mexico,0.0,0.0,Angola,Other
+2006.0,Portugal,2.0,0.0,IR Iran,Home Team
+2006.0,Czech Republic,0.0,2.0,Ghana,Away Team
+2006.0,Italy,1.0,1.0,USA,Other
+2006.0,Japan,0.0,0.0,Croatia,Other
+2006.0,Brazil,2.0,0.0,Australia,Home Team
+2006.0,France,1.0,1.0,Korea Republic,Other
+2006.0,Togo,0.0,2.0,Switzerland,Away Team
+2006.0,Saudi Arabia,0.0,4.0,Ukraine,Away Team
+2006.0,Spain,3.0,1.0,Tunisia,Home Team
+2006.0,Ecuador,0.0,3.0,Germany,Away Team
+2006.0,Costa Rica,1.0,2.0,Poland,Away Team
+2006.0,Sweden,2.0,2.0,England,Other
+2006.0,Paraguay,2.0,0.0,"rn"">Trinidad and Tobago",Home Team
+2006.0,Iran,1.0,1.0,Angola,Other
+2006.0,Portugal,2.0,1.0,Mexico,Home Team
+2006.0,Netherlands,0.0,0.0,Argentina,Other
+2006.0,C�te d'Ivoire,3.0,2.0,"rn"">Serbia and Montenegro",Home Team
+2006.0,Czech Republic,0.0,2.0,Italy,Away Team
+2006.0,Ghana,2.0,1.0,USA,Home Team
+2006.0,Japan,1.0,4.0,Brazil,Away Team
+2006.0,Croatia,2.0,2.0,Australia,Other
+2006.0,Ukraine,1.0,0.0,Tunisia,Home Team
+2006.0,Saudi Arabia,0.0,1.0,Spain,Away Team
+2006.0,Togo,0.0,2.0,France,Away Team
+2006.0,Switzerland,2.0,0.0,Korea Republic,Home Team
+2006.0,Germany,2.0,0.0,Sweden,Home Team
+2006.0,Argentina,2.0,1.0,Mexico,Home Team
+2006.0,England,1.0,0.0,Ecuador,Home Team
+2006.0,Portugal,1.0,0.0,Netherlands,Home Team
+2006.0,Italy,1.0,0.0,Australia,Home Team
+2006.0,Switzerland,0.0,0.0,Ukraine,Other
+2006.0,Brazil,3.0,0.0,Ghana,Home Team
+2006.0,Spain,1.0,3.0,France,Away Team
+2006.0,Germany,1.0,1.0,Argentina,Other
+2006.0,Italy,3.0,0.0,Ukraine,Home Team
+2006.0,England,0.0,0.0,Portugal,Other
+2006.0,Brazil,0.0,1.0,France,Away Team
+2006.0,Germany,0.0,2.0,Italy,Away Team
+2006.0,Portugal,0.0,1.0,France,Away Team
+2006.0,Germany,3.0,1.0,Portugal,Home Team
+2006.0,Italy,1.0,1.0,France,Other
+2010.0,South Africa,1.0,1.0,Mexico,Other
+2010.0,Uruguay,0.0,0.0,France,Other
+2010.0,Korea Republic,2.0,0.0,Greece,Home Team
+2010.0,Argentina,1.0,0.0,Nigeria,Home Team
+2010.0,England,1.0,1.0,USA,Other
+2010.0,Algeria,0.0,1.0,Slovenia,Away Team
+2010.0,Serbia,0.0,1.0,Ghana,Away Team
+2010.0,Germany,4.0,0.0,Australia,Home Team
+2010.0,Netherlands,2.0,0.0,Denmark,Home Team
+2010.0,Japan,1.0,0.0,Cameroon,Home Team
+2010.0,Italy,1.0,1.0,Paraguay,Other
+2010.0,New Zealand,1.0,1.0,Slovakia,Other
+2010.0,C�te d'Ivoire,0.0,0.0,Portugal,Other
+2010.0,Brazil,2.0,1.0,Korea DPR,Home Team
+2010.0,Honduras,0.0,1.0,Chile,Away Team
+2010.0,Spain,0.0,1.0,Switzerland,Away Team
+2010.0,South Africa,0.0,3.0,Uruguay,Away Team
+2010.0,Argentina,4.0,1.0,Korea Republic,Home Team
+2010.0,Greece,2.0,1.0,Nigeria,Home Team
+2010.0,France,0.0,2.0,Mexico,Away Team
+2010.0,Germany,0.0,1.0,Serbia,Away Team
+2010.0,Slovenia,2.0,2.0,USA,Other
+2010.0,England,0.0,0.0,Algeria,Other
+2010.0,Netherlands,1.0,0.0,Japan,Home Team
+2010.0,Ghana,1.0,1.0,Australia,Other
+2010.0,Cameroon,1.0,2.0,Denmark,Away Team
+2010.0,Slovakia,0.0,2.0,Paraguay,Away Team
+2010.0,Italy,1.0,1.0,New Zealand,Other
+2010.0,Brazil,3.0,1.0,C�te d'Ivoire,Home Team
+2010.0,Portugal,7.0,0.0,Korea DPR,Home Team
+2010.0,Chile,1.0,0.0,Switzerland,Home Team
+2010.0,Spain,2.0,0.0,Honduras,Home Team
+2010.0,Mexico,0.0,1.0,Uruguay,Away Team
+2010.0,France,1.0,2.0,South Africa,Away Team
+2010.0,Nigeria,2.0,2.0,Korea Republic,Other
+2010.0,Greece,0.0,2.0,Argentina,Away Team
+2010.0,Slovenia,0.0,1.0,England,Away Team
+2010.0,USA,1.0,0.0,Algeria,Home Team
+2010.0,Ghana,0.0,1.0,Germany,Away Team
+2010.0,Australia,2.0,1.0,Serbia,Home Team
+2010.0,Slovakia,3.0,2.0,Italy,Home Team
+2010.0,Paraguay,0.0,0.0,New Zealand,Other
+2010.0,Denmark,1.0,3.0,Japan,Away Team
+2010.0,Cameroon,1.0,2.0,Netherlands,Away Team
+2010.0,Portugal,0.0,0.0,Brazil,Other
+2010.0,Korea DPR,0.0,3.0,C�te d'Ivoire,Away Team
+2010.0,Chile,1.0,2.0,Spain,Away Team
+2010.0,Switzerland,0.0,0.0,Honduras,Other
+2010.0,Uruguay,2.0,1.0,Korea Republic,Home Team
+2010.0,USA,1.0,2.0,Ghana,Away Team
+2010.0,Germany,4.0,1.0,England,Home Team
+2010.0,Argentina,3.0,1.0,Mexico,Home Team
+2010.0,Netherlands,2.0,1.0,Slovakia,Home Team
+2010.0,Brazil,3.0,0.0,Chile,Home Team
+2010.0,Paraguay,0.0,0.0,Japan,Other
+2010.0,Spain,1.0,0.0,Portugal,Home Team
+2010.0,Netherlands,2.0,1.0,Brazil,Home Team
+2010.0,Uruguay,1.0,1.0,Ghana,Other
+2010.0,Argentina,0.0,4.0,Germany,Away Team
+2010.0,Paraguay,0.0,1.0,Spain,Away Team
+2010.0,Uruguay,2.0,3.0,Netherlands,Away Team
+2010.0,Germany,0.0,1.0,Spain,Away Team
+2010.0,Uruguay,2.0,3.0,Germany,Away Team
+2010.0,Netherlands,0.0,1.0,Spain,Away Team
+2014.0,Brazil,3.0,1.0,Croatia,Home Team
+2014.0,Mexico,1.0,0.0,Cameroon,Home Team
+2014.0,Spain,1.0,5.0,Netherlands,Away Team
+2014.0,Chile,3.0,1.0,Australia,Home Team
+2014.0,Colombia,3.0,0.0,Greece,Home Team
+2014.0,Uruguay,1.0,3.0,Costa Rica,Away Team
+2014.0,England,1.0,2.0,Italy,Away Team
+2014.0,C�te d'Ivoire,2.0,1.0,Japan,Home Team
+2014.0,Switzerland,2.0,1.0,Ecuador,Home Team
+2014.0,France,3.0,0.0,Honduras,Home Team
+2014.0,Argentina,2.0,1.0,"rn"">Bosnia and Herzegovina",Home Team
+2014.0,Germany,4.0,0.0,Portugal,Home Team
+2014.0,IR Iran,0.0,0.0,Nigeria,Other
+2014.0,Ghana,1.0,2.0,USA,Away Team
+2014.0,Belgium,2.0,1.0,Algeria,Home Team
+2014.0,Brazil,0.0,0.0,Mexico,Other
+2014.0,Russia,1.0,1.0,Korea Republic,Other
+2014.0,Australia,2.0,3.0,Netherlands,Away Team
+2014.0,Spain,0.0,2.0,Chile,Away Team
+2014.0,Cameroon,0.0,4.0,Croatia,Away Team
+2014.0,Colombia,2.0,1.0,C�te d'Ivoire,Home Team
+2014.0,Uruguay,2.0,1.0,England,Home Team
+2014.0,Japan,0.0,0.0,Greece,Other
+2014.0,Italy,0.0,1.0,Costa Rica,Away Team
+2014.0,Switzerland,2.0,5.0,France,Away Team
+2014.0,Honduras,1.0,2.0,Ecuador,Away Team
+2014.0,Argentina,1.0,0.0,IR Iran,Home Team
+2014.0,Germany,2.0,2.0,Ghana,Other
+2014.0,Nigeria,1.0,0.0,"rn"">Bosnia and Herzegovina",Home Team
+2014.0,Belgium,1.0,0.0,Russia,Home Team
+2014.0,Korea Republic,2.0,4.0,Algeria,Away Team
+2014.0,USA,2.0,2.0,Portugal,Other
+2014.0,Australia,0.0,3.0,Spain,Away Team
+2014.0,Netherlands,2.0,0.0,Chile,Home Team
+2014.0,Cameroon,1.0,4.0,Brazil,Away Team
+2014.0,Croatia,1.0,3.0,Mexico,Away Team
+2014.0,Italy,0.0,1.0,Uruguay,Away Team
+2014.0,Costa Rica,0.0,0.0,England,Other
+2014.0,Japan,1.0,4.0,Colombia,Away Team
+2014.0,Greece,2.0,1.0,C�te d'Ivoire,Home Team
+2014.0,Nigeria,2.0,3.0,Argentina,Away Team
+2014.0,"rn"">Bosnia and Herzegovina",3.0,1.0,IR Iran,Home Team
+2014.0,Honduras,0.0,3.0,Switzerland,Away Team
+2014.0,Ecuador,0.0,0.0,France,Other
+2014.0,USA,0.0,1.0,Germany,Away Team
+2014.0,Portugal,2.0,1.0,Ghana,Home Team
+2014.0,Korea Republic,0.0,1.0,Belgium,Away Team
+2014.0,Algeria,1.0,1.0,Russia,Other
+2014.0,Brazil,1.0,1.0,Chile,Other
+2014.0,Colombia,2.0,0.0,Uruguay,Home Team
+2014.0,France,2.0,0.0,Nigeria,Home Team
+2014.0,Brazil,2.0,1.0,Colombia,Home Team
+2014.0,France,0.0,1.0,Germany,Away Team
+2014.0,Brazil,1.0,7.0,Germany,Away Team
+2014.0,Brazil,0.0,3.0,Netherlands,Away Team
+2014.0,Germany,1.0,0.0,Argentina,Home Team
+2014.0,Netherlands,0.0,0.0,Argentina,Other
+2014.0,Netherlands,0.0,0.0,Costa Rica,Other
+2014.0,Argentina,1.0,0.0,Belgium,Home Team
+2014.0,Netherlands,2.0,1.0,Mexico,Home Team
+2014.0,Costa Rica,1.0,1.0,Greece,Other
+2014.0,Argentina,1.0,0.0,Switzerland,Home Team
+2014.0,Belgium,2.0,1.0,USA,Home Team
+2014.0,Brazil,1.0,1.0,Chile,Other
+2014.0,Colombia,2.0,0.0,Uruguay,Home Team
+2014.0,Netherlands,2.0,1.0,Mexico,Home Team
+2014.0,Costa Rica,1.0,1.0,Greece,Other
+2014.0,France,2.0,0.0,Nigeria,Home Team
+2014.0,Argentina,1.0,0.0,Switzerland,Home Team
+2014.0,Belgium,2.0,1.0,USA,Home Team
+2014.0,France,0.0,1.0,Germany,Away Team
+2014.0,Brazil,2.0,1.0,Colombia,Home Team
+2014.0,Argentina,1.0,0.0,Belgium,Home Team
+2014.0,Netherlands,0.0,0.0,Costa Rica,Other
+2014.0,Brazil,1.0,7.0,Germany,Away Team
+2014.0,Netherlands,0.0,0.0,Argentina,Other
+2014.0,Brazil,0.0,3.0,Netherlands,Away Team
+2014.0,Germany,1.0,0.0,Argentina,Home Team
