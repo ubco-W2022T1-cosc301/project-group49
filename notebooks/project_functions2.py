@@ -1,6 +1,7 @@
 #Import Libraries
 import numpy as np
 import pandas as pd
+import seaborn as sns
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.pylab as plt
@@ -8,16 +9,13 @@ import matplotlib.pylab as plt
 def load_and_process(url_or_path_to_csv_file):
 
     # Method Chain 1 (Load data)
-
     df1 = pd.read_csv(url_or_path_to_csv_file)
-    print(df1.info())
 
-    # Method Chain 2 (Drop unneccessary columns like the # of Goals Scored,
+    # Method Chain 2 (Drop unneccessary columns like the Attendance,
     #Check if the winners are a home team(to make sure that every winner counted is a visiting team);
     
-    
     #Preparing the lists and functions needed
-    DeleteList=['Year','Runners-Up','Third','Fourth','GoalsScored','QualifiedTeams','MatchesPlayed','Attendance']
+    DeleteList=['Runners-Up','Third','Fourth','QualifiedTeams','MatchesPlayed','Attendance']
     
     def func(row):
         if row['Country'] in row['Winner']:
@@ -42,7 +40,7 @@ def load_and_process(url_or_path_to_csv_file):
           ).reset_index(
     ).drop("index", axis=1
           )
-    
+
     #Turn "Germany FR" to "Germany" to simplify the process (Sorry for historians striving for accuracy, but my sleep is more important;
     df3.loc[df3['Winner'] == "Germany FR", 'Winner'] = "Germany"
 
