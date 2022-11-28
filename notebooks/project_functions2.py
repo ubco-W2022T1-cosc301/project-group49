@@ -123,6 +123,6 @@ def load_and_process2(url_or_path_to_csv_file):
     )
     
     #Method Chain3 (Merging Away Team and Home Team df, reset index, Drop the "Year" column)
-    df3=pd.concat([df_H3, df_A3]).sort_values(by=["Year"]).reset_index().drop(["index","Year"], axis=1)
+    df3=pd.concat([df_H3, df_A3]).sort_values(by=["Year"]).reset_index().drop(["index"], axis=1)
 
     return df3
