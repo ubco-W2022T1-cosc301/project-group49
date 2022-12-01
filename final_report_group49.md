@@ -15,10 +15,12 @@ This histogram shows a tally of the number of goals scored in a match by the hom
 ## Research Question 1: Whether 'home team advantage' is reflected in the dataset and if so, how much does it factor into the outcome of the match (by number of goals)?
 
 ![](/images/analysis1_rq1.png)
-
+This simple histogram shows the winner of the game across the years. From this chart we can confidently state that home team advantage is reflected as home team wins are more than double the away team wins. Note that the 'Other' category refers to the game resulting in a draw or penalties. 
 
 ![](/images/analysis1_rq2.png)
+Now, looking at the boxplot for the goals scored by the home team and away team, again we see a clear difference between the two. Home teams average more goals and even have a higher upper quartile. Until now, all the graphs we have looked don't take into consideration the year. Let's look into how the year affects our findings. 
 
 ![](/images/analysis1_rq3.png)
+This histogram gives us a good understanding of how home team advantage has affected the games. As you can see, towards the beginning of the tournament, in 1930, almost all games were won by the home team. This trend stays the same until around 1986, where away teams also start winning and the 'Other' category also rises. These two have continued to rise gradually until the end of our dataset, 2014. This tells us that games have been getting more competitive and home team advantage plays less into affect as to who the winner of the game is. 
 
 ## Conclusion
