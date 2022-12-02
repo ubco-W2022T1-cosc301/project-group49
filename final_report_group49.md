@@ -24,3 +24,5 @@ Now, looking at the boxplot for the goals scored by the home team and away team,
 This histogram gives us a good understanding of how home team advantage has affected the games. As you can see, towards the beginning of the tournament, in 1930, almost all games were won by the home team. This trend stays the same until around 1986, where away teams also start winning and the 'Other' category also rises. These two have continued to rise gradually until the end of our dataset, 2014. This tells us that games have been getting more competitive and home team advantage plays less into affect as to who the winner of the game is. 
 
 ## Conclusion
+In conclusion:
+Home team advantage has been reflected in the dataset but is more prominent earlier on, between 1930 and 1978. Since then, wins for the away team and tied games have been increasing. This means the games are getting more competitive and players are getting used to the pressure of playing at the opposing team's home pitch. This is good for both the sport and the viewers!
