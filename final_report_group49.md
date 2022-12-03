@@ -30,12 +30,12 @@ Now, looking at the boxplot for the goals scored by the home team and away team,
 This histogram gives us a good understanding of how home team advantage has affected the games. As you can see, towards the beginning of the tournament, in 1930, almost all games were won by the home team. This trend stays the same until around 1986, where away teams also start winning and the 'Other' category also rises. These two have continued to rise gradually until the end of our dataset, 2014. This tells us that games have been getting more competitive and home team advantage plays less into affect as to who the winner of the game is. 
 
 
-## Research Question 1: Whether 'home team advantage' is reflected in the dataset and if so, how much does it factor into the outcome of the match (by number of goals)?
+## Research Question 3: Does crowd attendance affects the number of goals scored in the game in any way (increase with more attendance or vice-versa)?
 
 ![](/images/analysis3_RQ1.png)
 This simple bar chart shows the affect of attendance on total goals scored in the year 2014. From this chart we can clearly see that the relationhsip between the two variables starts off as positive but higher the number of attendance, chances are scores goals are less likely scored after a certain threshold.
 ![](/images/analysis3_RQ2.png)
-This histogram gives us a good understanding of the trends of goals scored according to attendance in the year 2014. As you can see, with higher
+This histogram gives us a good understanding of the trends of goals scored according to attendance in the year 2014. As you can see, with higher attendance numbers, the average number of goals scored is 3, but with lower crowd attendance, t
 
 
 ## Conclusion
