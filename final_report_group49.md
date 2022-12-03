@@ -15,7 +15,7 @@ This histogram shows a tally of the number of goals scored in a match by the hom
 This EDA heatmap chart from [Analysis 3](notebooks/analysis3.ipynb), shows a summary of the relationships between the numerical data values.
 
 ![Pair plot of the data from analysis 3](/images/analysis3_eda2.png)
-I used the pair plot to see if there are any trends in other plots that I have missed
+I have used the pair plot in [Analysis 3](notebooks/analysis3.ipynb) to see if there are any trends in other plots that I have missed.
 
 
 ## Research Question 1: Whether 'home team advantage' is reflected in the dataset and if so, how much does it factor into the outcome of the match (by number of goals)?
@@ -34,8 +34,9 @@ This histogram gives us a good understanding of how home team advantage has affe
 
 ![](/images/analysis3_RQ1.png)
 This simple bar chart shows the affect of attendance on total goals scored in the year 2014. From this chart we can clearly see that the relationhsip between the two variables starts off as positive but higher the number of attendance, chances are scores goals are less likely scored after a certain threshold.
+
 ![](/images/analysis3_RQ2.png)
-This histogram gives us a good understanding of the trends of goals scored according to attendance in the year 2014. As you can see, with higher attendance numbers, the average number of goals scored is 3, but with lower crowd attendance, t
+This histogram gives us a good understanding of the trends of goals scored according to attendance in the year 2014. As you can see, with higher attendance numbers, the average number of goals scored is 3, but with lower crowd attendance, upto 7 goals have been scored.
 
 
 ## Conclusion
