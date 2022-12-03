@@ -1,7 +1,7 @@
 # Final Report Group 49
 
 ## Introduction
-Our group explored a Fifa world cup dataset that included information on all games played until the 2014 tournament. When we began the project, the 2022 World Cup was still 2 months away and as we are about to submit our findings, the World Cup is currently happening! It was rewarding to see the data we analyzed come to life, and having a better understanding of the game backed by data. 
+Our group explored a FIFA World Cup dataset that included information on all games played until the 2014 tournament. When we began the project, the 2022 World Cup was still 2 months away and as we are about to submit our findings, the World Cup is currently happening! It was rewarding to see the data we analyzed come to life, and having a better understanding of the game backed by data. 
 
 ## Exploratory Data Analysis
 
@@ -34,7 +34,7 @@ This histogram gives us a good understanding of how home team advantage has affe
 ## Research Question 3: Does crowd attendance affects the number of goals scored in the game in any way (increase with more attendance or vice-versa)?
 
 ![](/images/analysis3_RQ1.png)  
-This simple bar chart shows the affect of attendance on total goals scored in the year 2014. From this chart we can clearly see that the relationhsip between the two variables starts off as positive but higher the number of attendance, chances are scores goals are less likely scored after a certain threshold.
+This simple bar chart shows the affect of attendance on total goals scored in the year 2014. From this chart we can clearly see that the relationship between the two variables starts off as positive but higher the number of attendance, chances are scores goals are less likely scored after a certain threshold.
 
 ![](/images/analysis3_RQ2.png)  
 This histogram gives us a good understanding of the trends of goals scored according to attendance in the year 2014. As you can see, with higher attendance numbers, the average number of goals scored is 3, but with lower crowd attendance, upto 7 goals have been scored.  
@@ -43,7 +43,7 @@ This histogram gives us a good understanding of the trends of goals scored accor
 ## Conclusion
 
 ### Analysis 1
-In conclusion, Home team advantage has been reflected in the dataset but is more prominent earlier on, between 1930 and 1978. Since then, wins for the away team and the number of tied games have been increasing. This means the games are getting more competitive and players are getting used to the pressure of playing at the opposing team's home pitch. This is good for both, the sport and the viewers!
+In conclusion, home team advantage has been reflected in the dataset but it is more prominent earlier on, between 1930 and 1978. Since then, wins for the away team and the number of tied games have been increasing. This means that the games are getting more competitive and players are getting used to the pressure of playing at the opposing team's home pitch. This is good for both, the sport and the viewers as games are less dependant on where they are played! As of now, home teams have always won more games than the away team by a notable margin, but based off the current trend, it is only a matter of time until that is no longer the case. Matches are more enjoyable to watch when the outcome is unpredictable, and I hope this year's World Cup is no different!
 
 ### Analysis 3
 In conclusion, we see that attendance and number of goals scored have a varied relationship throughout the years. In the earlier years, this relationship is seen to be almost proportional but in the more recent seasons most goals are scored when there isn't too much or too little attendance. But by 2014 you clearly see that a larger attendance brings down the number of goals scored which is interesting as one would imagine higher attendance having the opposite effect. From this we can conclude that, higher the number of attendance, chances are scores goals are less likely scored, which is a surprising outcome considering the fact that we would have expected the vice versa because of morale boosts. Soccer/football (whatever you call it in your country) is truly a game of concentration!
