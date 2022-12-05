@@ -1,0 +1,20 @@
+Greeting
+
+- How many countries won the cup as AWAY teams?
+- Which has the most cup as away teams?
+- Which has the most median goals per match during the year they won the cup as away teams?
+- Which has the most total goals per year during the year they won the cup as away teams?
+
+Left pie and bar
+- shows countries won + # of times (Brazil)
+- one and the same
+
+Hue: Winner
+
+Right bar and box
+- Brazil + Germany and Uruguary
+Filter: Year
+Hue: Year
+
+Unify color (left); clear location for the filters and hues;
+connect the filters and hue; lines to seperate the sections
